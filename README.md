@@ -1,0 +1,1 @@
+GenAI Cold Email Generator is a Python‑based project that uses AI to generate personalized cold emails from job or company info. It helps automate tailored outreach using language models like Llama3 via LangChain and vector search.
